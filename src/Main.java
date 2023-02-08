@@ -26,7 +26,7 @@ public class Main {
 
     static float shoes = 41; // туфли
     static byte shoesDiscount = 32;
-    static float account = 160; // счёт пользователя
+    static float account = 312; // счёт пользователя
 
     // метод подсчёта стоимости делового гардероба
     private static float calculation() {
